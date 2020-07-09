@@ -4,7 +4,7 @@
   "description": "First page on nodeJs",
   "main": "index.js",
   "scripts": {
-    "dev": "node src",
+    "dev": "nodemon src",
     "start": "node src"
   },
   "repository": {
